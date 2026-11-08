@@ -103,11 +103,11 @@ microphone-preamplifier/
 ├── README.md
 ├── Technical Report.pdf
 └── images/
-    ├── proteus_schematic.png
-    ├── scope_gain_check.png
-    ├── scope_input1_10kHz.png
-    ├── scope_input2_1kHz.png
-    ├── scope_input3_100Hz.png
-    ├── scope_mixed_output.png
+    ├── proteus_schematic.jpg
+    ├── scope_gain_check.jpg
+    ├── scope_input1_10kHz.jpg
+    ├── scope_input2_1kHz.jpg
+    ├── scope_input3_100Hz.jpg
+    ├── scope_mixed_output.jpg
     └── hardware_overview_annotated.png
 ```
