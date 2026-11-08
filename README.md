@@ -2,8 +2,6 @@
 
 **Electronic Circuits and Devices (ECD) Final Lab Project (EE-19B) · Institute of Space Technology, Islamabad**
 
-**Team:** Bushra Naseer, Aemen Batool
-
 A three-channel audio pre-amplifier and mixer built from op-amps. Each microphone input has its own AC-coupled amplifier stage with a gain of about 100, a potentiometer sets each channel's level, and an inverting summing amplifier combines the three channels into one output. The design was first built and analysed in **Proteus**, then implemented on **breadboards** and demonstrated with a speaker.
 
 ---
