@@ -21,21 +21,21 @@ The three inputs were set to 10 mV at different frequencies, so each channel cou
 
 | Gain check (10 mV in, 0.9 V out) | Input 1 alone (10 kHz) |
 |---|---|
-| ![Gain check](images/scope_gain_check.png) | ![Input 1 output](images/scope_input1_10kHz.png) |
+| ![Gain check](images/scope_gain_check.jpg) | ![Input 1 output](images/scope_input1_10kHz.jpg) |
 
 | Input 2 alone (1 kHz) | Input 3 alone (100 Hz) |
 |---|---|
-| ![Input 2 output](images/scope_input2_1kHz.png) | ![Input 3 output](images/scope_input3_100Hz.png) |
+| ![Input 2 output](images/scope_input2_1kHz.jpg) | ![Input 3 output](images/scope_input3_100Hz.jpg) |
 
 **All inputs at 50 %.** The mixed output contains all three signals: the fast 10 kHz component rides on the slower 1 kHz and 100 Hz waves.
 
-![Mixed output](images/scope_mixed_output.png)
+![Mixed output](images/scope_mixed_output.jpg)
 
 ---
 
 ## Circuit
 
-![Proteus schematic](images/proteus_schematic.png)
+![Proteus schematic](images/proteus_schematic.jpg)
 
 **Input stages (three identical channels).** Each channel is a non-inverting amplifier built around an LM741:
 
