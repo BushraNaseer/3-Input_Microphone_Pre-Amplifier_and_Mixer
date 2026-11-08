@@ -65,15 +65,11 @@ The three inputs were set to 10 mV at different frequencies, so each channel cou
 
 ## Hardware implementation
 
-After simulation, the circuit was built on breadboards using an LM348 (a quad LM741 package) and tested with a speaker at the output.
+After simulation, the circuit was built on breadboards using an LM348 (a quad LM741 package). In the demonstration, audio from a phone was fed into the circuit's input jack, and the amplified output was played through a speaker.
 
 ![Annotated hardware setup](images/hardware_overview_annotated.png)
 
-*Frame from the hardware demonstration video.*
-
-| Close-up of the breadboard wiring | Another view of the breadboards |
-|---|---|
-| ![Close-up 1](images/hardware_closeup_1.png) | ![Close-up 2](images/hardware_closeup_2.png) |
+*Frame from the hardware demonstration video, brightened and annotated.*
 
 ---
 
@@ -105,6 +101,7 @@ After simulation, the circuit was built on breadboards using an LM348 (a quad LM
 ```
 microphone-preamplifier/
 ├── README.md
+├── Technical Report.pdf
 └── images/
     ├── proteus_schematic.png
     ├── scope_gain_check.png
@@ -112,7 +109,5 @@ microphone-preamplifier/
     ├── scope_input2_1kHz.png
     ├── scope_input3_100Hz.png
     ├── scope_mixed_output.png
-    ├── hardware_overview_annotated.png
-    ├── hardware_closeup_1.png
-    └── hardware_closeup_2.png
+    └── hardware_overview_annotated.png
 ```
